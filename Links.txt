@@ -1,1 +1,3 @@
 tugas 1 : https://corbusio-web-programming-assignment-tugas1-d2zzef.streamlit.app/
+tugas 2 : https://corbusio-web-programming-assignment-tugas2-010zpx.streamlit.app/
+tugas 3 : https://corbusio-web-programming-assignment-tugas3-k04jml.streamlit.app/
