@@ -1,6 +1,6 @@
 # Web-Programming-Assignment
-Nama : Wilson Ang Jaya/n 
-NIM : 32200008/n
+Nama : Wilson Ang Jaya  
+NIM : 32200008  
 Kelas : 6PTI1
 
 link for streamlit app available in links.txt
