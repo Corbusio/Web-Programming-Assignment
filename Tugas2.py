@@ -26,8 +26,10 @@ with tab2:
 			'  \nUmur = ', umur)
 
 with tab3:
+	
 	@st.cache_data(ttl=600)
 	def load_data(sheets_url):
+		#export file as csv
 		csv_url = sheets_url.replace("/edit#gid=","/export?format=csv&gid=")
 		return pd.read_csv(csv_url)
 
