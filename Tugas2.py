@@ -3,6 +3,13 @@ import pandas as pd
 
 st.title("Tugas 2")
 
+with st.sidebar:
+	st.header("about Tugas 2")
+	st.write("Widget = input text, radio button, button, slider")
+	st.write("chart = line chart")
+	st.write("layout = side bar, tab")
+	st.write("database = google sheets")
+
 tab1, tab2, tab3 = st.tabs(["Line Chart", "Widget", "DataBase"])
 with tab1:
 	df = pd.DataFrame({'column 1': [1,5,6,7,2], 'column 2': [2,7,6,5,1]})
